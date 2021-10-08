@@ -1,3 +1,3 @@
 # XCalendar
 
-![Alt Text](https://github.com/myawesomehub/XCalendar/blob/main/XCalendar.gif)
+![Alt Text](https://github.com/myawesomehub/XCalendar/blob/main/XCalendarPreview.gif)
